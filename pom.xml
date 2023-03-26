@@ -57,6 +57,11 @@
 			<artifactId>fastjson</artifactId>
 			<version>1.2.68.sec10</version>
 		</dependency>
+		<dependency>
+			<groupId>org.apache.kafka</groupId>
+			<artifactId>kafka-clients</artifactId>
+			<version>2.7.1</version>
+		</dependency>
 	</dependencies>
 
 	<build>
